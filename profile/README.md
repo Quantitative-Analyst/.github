@@ -3,4 +3,4 @@ This is the public profile page for the Treasury Data Solutions group within the
 
 We do not currently have any public repositories.
 
-If you require access to our organization's github repositories, please contact [Brian Perdomo]<mailto:BrianPerdomo@synovus.com>
+If you require access to our organization's github repositories, please contact [Brian Perdomo](mailto:BrianPerdomo@synovus.com)
